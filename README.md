@@ -11,6 +11,8 @@ A utility for RQAlpha to directly use data.
 
 对 history_bars 函数进行一定包装后变成 get_bars 函数，以便直接在 Jupyter 中直接使用！
 
+匆忙写就，欢迎各位提问题以便改进它，当然更欢迎给我加个 Star。
+
 最终效果：
 
 ![img](https://pic3.zhimg.com/50/v2-6cdf9e049c3d738cace34500537008ee.jpg)
