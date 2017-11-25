@@ -11,7 +11,9 @@ A utility for RQAlpha to directly use data.
 
 对 history_bars 函数进行一定包装后变成 get_bars 函数，以便直接在 Jupyter 中直接使用！
 
+最终效果：
 
+![img](https://pic3.zhimg.com/50/v2-6cdf9e049c3d738cace34500537008ee.jpg)
 
 ### 常用的函数：
 
@@ -131,7 +133,14 @@ print(df)
 
 
 
+### 如何在 Jupyter 中使用 rqalpha 进行回测
+有的朋友可能不知道如何在 Jupyter 中使用 rqalpha 进行回测
 
+1. 用 %reload_ext rqalpha 命令加载 %%rqalpha命令
+
+2. 用 %%rqalpha 命令运行回测
+
+   ![img](https://pic1.zhimg.com/50/v2-8ce420194c0627d5eff59913c0b513f0.jpg)
 
 ## License
 
