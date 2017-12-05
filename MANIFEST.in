@@ -1,2 +1,2 @@
 include requirements.txt
-include rqalpha-data/VERSION.txt
+include rqalpha_data/VERSION.txt
